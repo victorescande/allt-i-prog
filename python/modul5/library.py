@@ -1,0 +1,2 @@
+my_library = {"Brand":"Subaru","Model": "Brz", "manifacturer date": 2018, "color": "Blå"}
+print("Min favoritbil är", my_library["Brand"], my_library["Model"],"årsmodell", my_library["manifacturer date"], "och jag gillar färgen", my_library["color"] )
